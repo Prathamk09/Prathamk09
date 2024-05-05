@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prathamk09
-- 👀 I’m interested in ...learning python 
+- 👀 I’m interested in Embedded systmes 
 - 🌱 I’m currently learning electrical and electronics Engineering ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...pkinjavadekar@gmail.com
 
 
